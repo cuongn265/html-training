@@ -1,0 +1,23 @@
+body {
+	margin: 0 !important
+}
+.list {
+	margin: 0px;
+	background-color: #00710E;
+	height: 40px;
+}
+
+.list > li {
+	display: inline-block;
+	margin: 10px 40px;
+	color: white;
+}
+
+.list > li > a {
+	color: white;
+	text-decoration: none;
+}
+
+.main-container {
+	margin: 80px;
+}
